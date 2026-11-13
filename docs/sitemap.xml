@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://joelserranoperez.github.io/CV-JoelSerranoPerez/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://joelserranoperez.github.io/CV-JoelSerranoPerez/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://joelserranoperez.github.io/CV-JoelSerranoPerez/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://joelserranoperez.github.io/CV-JoelSerranoPerez/"/>
+  </url>
+  <url><loc>https://joelserranoperez.github.io/CV-JoelSerranoPerez/proyecto.html?p=planificador-visitas</loc></url>
+  <url><loc>https://joelserranoperez.github.io/CV-JoelSerranoPerez/proyecto.html?p=nvsic</loc></url>
+  <url><loc>https://joelserranoperez.github.io/CV-JoelSerranoPerez/proyecto.html?p=click-collect</loc></url>
+</urlset>

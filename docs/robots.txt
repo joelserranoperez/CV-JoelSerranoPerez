@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://joelserranoperez.github.io/CV-JoelSerranoPerez/sitemap.xml
